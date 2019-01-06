@@ -20,4 +20,4 @@ The program will render a simple map in orthographic or perspective projection. 
 ## Usage
 Run `make` and then `./fdf [map]`
 
-This has currently only been tested on MacOS
+Currently only works on MacOS
