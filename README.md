@@ -7,6 +7,7 @@ The program will render a simple map in orthographic or perspective projection. 
 
 ## Controls
 * <kbd>Left Mouse</kbd> - Rotate X and Y
+* <kbd>Left</kbd> and <kbd>Right</kbd> Rotate Z
 * <kbd>Right Mouse</kbd> - Scale
 * <kbd>1</kbd> - Top View
 * <kbd>2</kbd> - Side View 1
