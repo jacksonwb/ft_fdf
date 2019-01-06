@@ -18,8 +18,6 @@ The program will render a simple map in orthographic or perspective projection. 
 * <kbd>-</kbd> and <kbd>+</kbd> - Change Focal Length
 
 ## Usage
-This program requires `clang` to build.
-
 Run `make` and then `./fdf [map]`
 
 This has currently only been tested on MacOS
